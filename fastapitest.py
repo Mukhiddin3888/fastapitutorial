@@ -1,5 +1,5 @@
 
-
+#uvicorn projetctname:app --reload
 
 from fastapi import FastAPI, Path
 from typing import Optional
